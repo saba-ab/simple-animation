@@ -55,7 +55,7 @@ body {
   }
 }
 .animation-2 {
-  animation: my-animation-2 120ms ease-in-out 2s infinite;
+  animation: my-animation-2 12s ease-in-out 2s infinite;
 }
 
 @keyframes my-animation-2 {
